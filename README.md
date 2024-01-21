@@ -17,14 +17,14 @@
 **Process of Implementation:**
 
 - Evaluation Criteria:
- - Only the top 10 or 15 will be invited for presentations.
- - Disqualification for late submissions and plagiarism.
+	- Only the top 10 or 15 will be invited for presentations.
+	- Disqualification for late submissions and plagiarism.
 - Hackathon Timeline:
- - Applications phase ends on 19th January 2024
- - Team meetings 24th February 2024
- - Hackathon kick-off and Application development 25th February 2024 – 4th March 2024
- - Submission 5th March 2024
- - Evaluation period: Three weeks for Award and presentation calls.
+	 - Applications phase ends on 19th January 2024
+	 - Team meetings 24th February 2024
+	 - Hackathon kick-off and Application development 25th February 2024 – 4th March 2024
+	 - Submission 5th March 2024
+	 - Evaluation period: Three weeks for Award and presentation calls.
 - Presentation and Awards: 5th March 2024 – 26th March 2024
 
 **Winning Criteria:**
