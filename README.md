@@ -38,3 +38,13 @@
 
 All outcomes of the hackathon will be open source and whose source code is made available to the public, allowing anyone to view, use, modify, and distribute the code.
 
+**Hackathon datasets**
+
+All the datasets are in the [./datasets](datasets) direcoty:
+
+- [./datasets/synthetic_facility_v2.csv](synthetic_facility_v2.csv) is the synthetic health facility data
+- [./datasets/synthetic_hdss_v2.csv](synthetic_hdss_v2.csv) is the synthetic health hdss data
+
+**Task**
+
+See [https://aphrc.org/event/an-ai-driven-tool-for-record-linkage-in-hdss-communities-within-the-inspire-network/](here) for more information.
