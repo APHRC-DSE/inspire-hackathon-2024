@@ -36,8 +36,6 @@
 
 **Code Ownership:**
 
-- [metadata_v3.pdf](./datasets/metadata_v3.pdf) describes the datasets
-
 All outcomes of the hackathon will be open source and whose source code is made available to the public, allowing anyone to view, use, modify, and distribute the code.
 
 **Hackathon datasets**
@@ -46,6 +44,7 @@ All the datasets are in the [datasets](./datasets) direcoty:
 
 - [synthetic_facility_v3.csv](./datasets/synthetic_facility_v3.csv) is the synthetic health facility data
 - [synthetic_hdss_v3.csv](./datasets/synthetic_hdss_v3.csv) is the synthetic health hdss data
+- [metadata_v3.pdf](./datasets/metadata_v3.pdf) describes the datasets
 
 **Task**
 
